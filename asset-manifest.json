@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/weekend-planner/static/css/main.92c8d4eb.css",
+    "main.css": "/weekend-planner/static/css/main.d565d967.css",
     "main.js": "/weekend-planner/static/js/main.110d72ac.js",
     "static/js/453.40782872.chunk.js": "/weekend-planner/static/js/453.40782872.chunk.js",
     "index.html": "/weekend-planner/index.html",
-    "main.92c8d4eb.css.map": "/weekend-planner/static/css/main.92c8d4eb.css.map",
+    "main.d565d967.css.map": "/weekend-planner/static/css/main.d565d967.css.map",
     "main.110d72ac.js.map": "/weekend-planner/static/js/main.110d72ac.js.map",
     "453.40782872.chunk.js.map": "/weekend-planner/static/js/453.40782872.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92c8d4eb.css",
+    "static/css/main.d565d967.css",
     "static/js/main.110d72ac.js"
   ]
 }
